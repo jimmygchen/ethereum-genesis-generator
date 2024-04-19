@@ -40,6 +40,8 @@ DENEB_FORK_EPOCH: 0
 ELECTRA_FORK_VERSION: $ELECTRA_FORK_VERSION
 ELECTRA_FORK_EPOCH: $ELECTRA_FORK_EPOCH
 
+PEER_DAS_EPOCH: $PEER_DAS_EPOCH
+
 # Time parameters
 # ---------------------------------------------------------------
 # 12 seconds
